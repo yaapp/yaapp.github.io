@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+body {
+ color: #6b6b6b;
+}
+
+#h1 {
+ text-align: center;
+ color: #32CD32;
+ font-family: Impact, Charcoal, sans-serif;
+ font-size: 40px;
+ font-weight: bold;
+ line-height: 0.6;
+}
+
+#p1, #p2, #p3 {
+ color: #32CD32;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+}
+
+p {
+ line-height: 0.6;
+}
+
+a {
+ color: darkgreen;
+ font-weight: bold;
+ text-decoration: none;
+ text-transform: uppercase;
+}
+
+</style>
+
+<header>
+<h1 id=h1> Uh oh! </h1>
+<header>
+
+<body>
+<p id=p1> Sorry... </p>
+<p id=p2> Doesn't look like our team of highly skilled computer monkeys have gotten to fixing up this page yet. </p>
+<p id=p2> Give it some time and come back later! </p>
+<a href="https://yaapp.github.io/">Go back</a>
+</body>
